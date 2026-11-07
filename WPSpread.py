@@ -69,8 +69,8 @@ import subprocess
 # CONFIGURATION SECTION
 # ============================================================================
 
-BOT_TOKEN = "8868389704:AAHxC3onOOOu2znJgT1aj0CbTV2pL_WeAs8"
-SUPER_ADMIN_ID = 6237789849
+BOT_TOKEN = "8976283560:AAH9uo4ehhaJUww7j04S1IYiSocdStmGt1Y"
+SUPER_ADMIN_ID = 8796659827
 RC_API_URL = "https://rc-info-1api.onrender.com/api/vehicle-info?rc=rc_number"
 USER_DATA_DIR = "./whatsapp_user_data"
 APK_STORAGE_DIR = "./apk_storage"
